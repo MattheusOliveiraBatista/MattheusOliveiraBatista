@@ -1,16 +1,21 @@
-### Hi there 👋
+## Seja bem-vindo ao meu GitHub!
 
-<!--
-**MattheusOliveiraBatista/MattheusOliveiraBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matbatista.oliveira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-022b88185/)
 
-Here are some ideas to get you started:
+ 
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattheusOliveiraBatista&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+ 
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+	
+  <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="left" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="left" alt="Rafa-Csharp" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+  <img align="left" alt="Rafa-Csharp" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
+ 
+</div>
+
+![Snake animation](https://github.com/M1guelOl1veira/M1guelOl1veira/blob/output/github-contribution-grid-snake.svg)
